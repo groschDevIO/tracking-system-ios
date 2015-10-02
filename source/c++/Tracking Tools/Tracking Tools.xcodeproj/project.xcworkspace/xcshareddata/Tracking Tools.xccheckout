@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F07CF818-6971-432E-A698-B3D4F7E89F45</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Tracking Tools</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2B0B73964E418ED323F129A4382DF65478332394</key>
+		<string>https://github.com/groschDevIO/tracking-system-ios.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>source/c++/Tracking Tools/Tracking Tools.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2B0B73964E418ED323F129A4382DF65478332394</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/groschDevIO/tracking-system-ios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>2B0B73964E418ED323F129A4382DF65478332394</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2B0B73964E418ED323F129A4382DF65478332394</string>
+			<key>IDESourceControlWCCName</key>
+			<string>tracking-system-ios</string>
+		</dict>
+	</array>
+</dict>
+</plist>
